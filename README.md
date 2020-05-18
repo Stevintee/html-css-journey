@@ -1,4 +1,4 @@
 # html-css-journey
-**My Expectation**
+**Expectation**
 
 *My goal is to be richer than Mark zuckerberg*
